@@ -1,4 +1,5 @@
 # Версия программы: 2.0
+# Author: Проектная команда
 # calculator.py
 
 def add(a, b):
