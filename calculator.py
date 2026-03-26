@@ -1,3 +1,4 @@
+# Версия программы: 2.0
 # calculator.py
 
 def add(a, b):
